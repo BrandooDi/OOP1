@@ -148,4 +148,4 @@ if __name__ == '__main__':
     r5.display()
 
     r6 = r2.div(r1)
-    r6.display()
+    r6.display(   )
